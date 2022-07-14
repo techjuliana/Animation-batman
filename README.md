@@ -1,8 +1,8 @@
 <h1 align="center">
-  Batman 
+  Batman CSS
 </h1>
 
-## Technologies
+## Tech
 
 Algumas das tecnologias utilizadas foram: HTML e CSS.
 
@@ -13,9 +13,8 @@ Você pode abrir o website através do link abaixo.
 <a href="https://techjuliana.github.io/batman-css/" target="" alt="">Clique aqui</a>
 <!-- `https://techjuliana.github.io/batman-css/` -->
 
- 
-## Autor
 ---
+## Tech Juliana
 
 <a href="https://www.linkedin.com/in/techjuliana">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
