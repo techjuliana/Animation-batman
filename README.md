@@ -14,8 +14,8 @@ Algumas das tecnologias utilizadas foram: HTML e CSS.
 
 Você pode abrir o website através do link abaixo.
 
-<a href="https://techjuliana.github.io/batman-css/" target="" alt="">Clique aqui</a>
-<!-- `https://techjuliana.github.io/batman-css/` -->
+<a href="https://batmancss.netlify.app/" target="" alt="">Clique aqui</a>
+<!-- `https://batmancss.netlify.app/` -->
 
 ---
 ## Tech Juliana
@@ -31,6 +31,5 @@ Elaborado por Juliana Bitencourt
 
 
  <div> 
-  <a href = "mailto:techjuliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
