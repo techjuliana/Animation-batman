@@ -1,8 +1,12 @@
 <h1 align="center">
-  Batman CSS
+  Batman em CSS - Um dos meus primeiro projetos :) 
 </h1>
 
-## Tech
+<hr>
+
+### Projeto Design ⬇️
+![image](https://raw.githubusercontent.com/techjuliana/API-paises/main/design/Captura%20de%20ecr%C3%A3%202022-11-23%2C%20%C3%A0s%2011.27.43%20AM.png)
+
 
 Algumas das tecnologias utilizadas foram: HTML e CSS.
 
